@@ -1,4 +1,4 @@
-# GASHAP: Explainable 3D-CNN for Alzheimer's Disease Diagnosis using Genetic Algorithm and SHAP
+# GASHAP: Alzheimer's Disease Prediction via an explainable CNN using Genetic Algorithm and SHAP values 
 
 This repository contains the implementation of the **GASHAP** framework introduced in:
 
